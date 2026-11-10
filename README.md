@@ -1,4 +1,4 @@
-# Fortnite Chest Counter
+# Chest Counter
 
 A Python-based desktop application that listens to your system's audio in real-time and automatically counts how many chests you open in Fortnite using a trained Machine Learning model.
 
@@ -32,10 +32,14 @@ If you want to run or modify the Python scripts directly, follow these steps:
    ```bash
    git clone [https://github.com/TrueYahir/Fortnite-Chest-Counter.git](https://github.com/TrueYahir/Fortnite-Chest-Counter.git)
    cd Fortnite-Chest-Counter
+
 2. Create a Virtual environmet:
+    ```bash
     python -m venv .venv
     .venv\Scripts\activate
+
 3. Install dependencies:
+    ```bash
     pip install customtkinter pyaudiowpatch librosa numpy joblib scikit-learn pillow
 
 ### How to use
@@ -55,5 +59,5 @@ If you want to run or modify the Python scripts directly, follow these steps:
 
 ## Support
 If you like this project or it helped you out, consider supporting the development!
-* [Support me on Ko-fi](https://ko-fi.com/trueyahir)
-* [Follow me on GitHub](https://github.com/TrueYahir)
+[![Ko-fi](kofi.png)](https://ko-fi.com/trueyahir)
+[![GitHub](github.png)](https://github.com/TrueYahir)
