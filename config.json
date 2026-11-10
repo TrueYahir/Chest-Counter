@@ -1,0 +1,8 @@
+{
+    "chests": 15,
+    "save_data": true,
+    "model": "chest_model.pkl",
+    "chunk_duration": 0.5,
+    "probability_threshold": 0.8,
+    "device": "Realtek HD Audio 2nd output (Realtek(R) Audio) [Loopback]"
+}

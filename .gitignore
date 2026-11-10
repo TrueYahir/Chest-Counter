@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller & Build artifacts
+build/
+dist/
+*.spec
+
+# Audio samples & Training data
+Model Audio/
+recordings/
+*.wav
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# IDE & Editor files
+.vscode/
+.idea/
+
+# Operating System files
+Thumbs.db
+Desktop.ini
+.DS_Store
