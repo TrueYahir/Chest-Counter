@@ -37,7 +37,7 @@ If you want to run or modify the Python scripts directly, follow these steps:
     ```bash
     python -m venv .venv
     .venv\Scripts\activate
-
+    
 3. Install dependencies:
     ```bash
     pip install customtkinter pyaudiowpatch librosa numpy joblib scikit-learn pillow
@@ -59,5 +59,5 @@ If you want to run or modify the Python scripts directly, follow these steps:
 
 ## Support
 If you like this project or it helped you out, consider supporting the development!
-[![Ko-fi](kofi.png)](https://ko-fi.com/trueyahir)
-[![GitHub](github.png)](https://github.com/TrueYahir)
+* [Support me on Ko-fi](https://ko-fi.com/trueyahir)
+* [Follow me on GitHub](https://github.com/TrueYahir)
